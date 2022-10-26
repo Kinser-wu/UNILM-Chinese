@@ -4,6 +4,7 @@ UniLM模型既可以应用于自然语言理解（NLU）任务，又可以应用
 
 ## 预训练模型
 来自云问开源的预训练unilm_base模型 https://github.com/YunwenTechnology/Unilm
+预训练模型在网盘，需要自行下载
 
 ## 数据集
 一份weibo新闻数据集，另一份是自制的CCTV新闻数据集
